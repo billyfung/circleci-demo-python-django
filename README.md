@@ -1,6 +1,6 @@
 # CircleCI Demo Application: Python / Django
 
-[![CircleCI](https://circleci.com/gh/billyfung/billyfung.github.io/tree/master.svg?style=svg)](https://circleci.com/gh/billyfung/billyfung.github.io/tree/master)
+![CircleCI](https://circleci.com/gh/billyfung/billyfung.github.io/tree/master.svg?style=svg)](https://circleci.com/gh/billyfung/billyfung.github.io/tree/master)
 
 This is an example application showcasing how to build test and deploy a Django app on CircleCI 2.0.
 
